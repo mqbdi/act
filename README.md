@@ -1,2 +1,2 @@
 # act
-ACT - Agent Cognitive Technologies
+ACT - Agent Cognitive Technology
