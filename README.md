@@ -1,5 +1,7 @@
 # ACT is a multi-agent system programming framework 
 
+ACT stands for Agent Cognitive Technology. Simultaneously, acting is one of the most important steps after all cognitive processes have been completed. This is where the accronym and the resulting name comes from.
+
 ## Why?
 There are a lot of frameworks that work on the principle of agents. However, some of them are orphaned and others do not have a suitable open source license to create commercial products. The philosophy of the authors ranges from "program everything yourself" to outdated principles. 
 
