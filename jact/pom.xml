@@ -10,6 +10,13 @@
     <name>JACT-Project</name>
     <description>The Java-based implementation of the ACT-Project</description>
     <packaging>pom</packaging>
+    <inceptionYear>2020</inceptionYear>
+    <developers>
+        <developer>
+            <name>Michael Burkhardt</name>
+            <id>mqbdi</id>
+        </developer>
+    </developers>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
