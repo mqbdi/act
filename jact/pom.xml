@@ -27,7 +27,8 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
 
-        <springboot.version>2.2.6.RELEASE</springboot.version>
+        <springboot.version>2.3.0.RELEASE</springboot.version>
+        <projectlombok.version>1.18.12</projectlombok.version>
     </properties>
 
     <modules>
@@ -55,6 +56,13 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-starter-test</artifactId>
                 <version>${springboot.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>${projectlombok.version}</version>
+                <scope>provided</scope>
             </dependency>
         </dependencies>
 
