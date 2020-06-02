@@ -5,9 +5,5 @@ import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
 @Data
-public class AliveMessage {
-
-    private Long uptime;
-    private Long processId;
-
+public class DirectoryMessage {
 }

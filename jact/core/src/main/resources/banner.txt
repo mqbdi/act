@@ -1,0 +1,21 @@
+
+
+          JJJJJJJJJJJ               AAA                       CCCCCCCCCCCCCTTTTTTTTTTTTTTTTTTTTTTT
+          J:::::::::J              A:::A                   CCC::::::::::::CT:::::::::::::::::::::T
+          J:::::::::J             A:::::A                CC:::::::::::::::CT:::::::::::::::::::::T
+          JJ:::::::JJ            A:::::::A              C:::::CCCCCCCC::::CT:::::TT:::::::TT:::::T
+            J:::::J             A:::::::::A            C:::::C       CCCCCCTTTTTT  T:::::T  TTTTTT
+            J:::::J            A:::::A:::::A          C:::::C                      T:::::T
+            J:::::J           A:::::A A:::::A         C:::::C                      T:::::T
+            J:::::j          A:::::A   A:::::A        C:::::C                      T:::::T
+            J:::::J         A:::::A     A:::::A       C:::::C                      T:::::T
+JJJJJJJ     J:::::J        A:::::AAAAAAAAA:::::A      C:::::C                      T:::::T
+J:::::J     J:::::J       A:::::::::::::::::::::A     C:::::C                      T:::::T
+J::::::J   J::::::J      A:::::AAAAAAAAAAAAA:::::A     C:::::C       CCCCCC        T:::::T
+J:::::::JJJ:::::::J     A:::::A             A:::::A     C:::::CCCCCCCC::::C      TT:::::::TT
+ JJ:::::::::::::JJ     A:::::A               A:::::A     CC:::::::::::::::C      T:::::::::T
+   JJ:::::::::JJ      A:::::A                 A:::::A      CCC::::::::::::C      T:::::::::T
+     JJJJJJJJJ       AAAAAAA                   AAAAAAA        CCCCCCCCCCCCC      TTTTTTTTTTT
+
+ :: Spring Boot                     :: ${spring-boot.formatted-version}
+ :: Java Agent Cognitive Technology :: ${application.formatted-version}

@@ -1,6 +1,6 @@
 package jact.core.controller;
 
-import jact.core.model.AliveMessage;
+import jact.core.model.PingMessage;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -10,8 +10,8 @@ import java.lang.management.ManagementFactory;
 public class AliveController {
 
     @GetMapping("/get")
-    public AliveMessage get() {
-        AliveMessage ret = new AliveMessage();
+    public PingMessage get() {
+        PingMessage ret = new PingMessage();
         String processName = ManagementFactory.getRuntimeMXBean().getName();
         Long processId = Long.parseLong(processName.split("@")[0]);
         Long uptime = ManagementFactory.getRuntimeMXBean().getUptime();
